@@ -12,9 +12,4 @@ long long power(int N,int R)
 {
     //Your code here
     return powe(N,R);
-    why thi koleveri di;
-    why chaitanya is erripuku
-        men will be men
-        santoor santoor
-        nuvu vastanu ante nenu vadantana
 }
